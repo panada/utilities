@@ -1,4 +1,4 @@
 About Panada Router
 -------------------
 
-This is A standalone Panada router.
+Utilities helper for most of Panada package.

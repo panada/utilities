@@ -1,6 +1,6 @@
 <?php
 
-namespace Panada\Utilities;
+namespace Panada\Utility;
 
 class Factory
 {
